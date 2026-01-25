@@ -1,0 +1,48 @@
+{
+  "festival": "Ratha Saptami",
+  "language": "Tamil",
+  "deity": "Lord Surya",
+  "prayers": [
+    {
+      "title": "Surya Gayatri Mantra",
+      "purpose": "General invocation of the Sun God",
+      "tamil_text": "ஓம் பாஸ்கராய வித்மஹே, மஹத்யுதிகராய தீமஹி, தன்னோ ஆதித்ய ப்ரசோதயாத்.",
+      "transliteration": "Om Bhaskaraya Vidmahe, Mahadyutikaraya Dhimahi, Tanno Aditya Prachodayat."
+    },
+    {
+      "title": "Sins Cleansing Prayer (New)",
+      "purpose": "Prayer to remove seven types of sins during the bath",
+      "tamil_text": "ஏதஜ்ஜந்ம க்ருதம் பாபம் யச்ச ஜந்மாந்தரார்ஜிதம் । மநோ வாக்காயஜம் யச்ச ஜ்ஞாதாஜ்ஞாதே ச யே புநஃ ॥ இதி ஸப்தவிதம் பாபம் ஸ்நாநான்மே ஸப்த ஸப்திகே । ஸப்தவ்யாதி ஸமாயுக்தம் ஹர மாகரி ஸப்தமீ ॥",
+      "transliteration": "Etaj-janma kritam papam yaccha janmantararjitam | Mano-vak-kayajam yaccha jnata-jnate cha ye punah || Iti saptavidham papam snanan-me sapta saptike | Sapta-vyadhi samayuktam hara makari saptami ||"
+    },
+    {
+      "title": "Saptami Snana Shlokam",
+      "purpose": "Recited during the ritual bath with Erukku leaves",
+      "tamil_text": "யத்பன்ம ஜன்ம சரிதம் பாபம், ஸப்த ஜன்மஸு ரাগதாம், தந்மே ரோகம் ச சோகம் ச, மாகரீ ஹந்து ஸப்தமீ.",
+      "transliteration": "Yatpanma Janma Charitam Papam, Sapta Janmasu Ragatam, Tanme Rogam Cha Shokam Cha, Magari Hantu Saptami."
+    },
+    {
+      "title": "Additional Saptami Shlokas",
+      "purpose": "Prayer for removing sins and offering Arghyam",
+      "tamil_text": "ஸப்தஸப்திப்ரியே தேவி ஸப்தலோகைகதீபிகே । ஸப்தஜந்மார்ஜிதம் பாபம் ஹர ஸப்தமி ஸத்வரம் ॥ யத்மயாத்ர க்ருதம் பாபம் பூர்வம் ஸப்தஸு ஜந்மஸு । தத்ஸர்வம் ஶோகமோஹௌ ச மாகரீ ஹந்து ஸப்தமீ ॥ நமாமி ஸப்தமீம் தேவீம் ஸர்வபாபப்ரணாஶினீம் । ஸப்தமீ ஸஹிதோ தேவ க்ருஹாணார்க்கயம் திவாகர ॥",
+      "transliteration": "Sapta-sapti-priye Devi Sapta-lokaika-dipike | Sapta-janmarjitam papam hara saptami satvaram || Yan-maya-tra kritam papam purvam saptasu janmasu | Tat-sarvam shoka-mohau cha makari hantu saptami || Namami saptamim devim sarva-papa-pranashinim | Saptami sahito deva grihanarkyam divakara ||"
+    },
+    {
+      "title": "Surya Ashtakam (Key Names)",
+      "purpose": "To remove poverty and gain health",
+      "tamil_text": "ஆதித்ய ப்ரதமம் நாம த்விதீயம் து திவாகர: த்ருதீயம் பாஸ்கரம் ப்ரோக்தம் சதுர்தம் து ப்ரபாகர: பஞ்சமம் து ஸஹஸ்ராம்சு: ஷஷ்டம் த்ரைலோக்ய லோசனம் ஸப்தமம் ஹரிதச்வஞ்ச அஷ்டமம் து விபாவஸு:",
+      "transliteration": "Aditya Prathamam Nama, Dwitiyam Tu Divakara, Tritiyam Bhaskaram Proktam, Chaturtham Tu Prabhakara..."
+    },
+    {
+      "title": "Tamil Surya Arpanam",
+      "purpose": "Direct prayer in Tamil while offering water",
+      "tamil_text": "செங்கதிரே போற்றி! செழுஞ்சுடரே போற்றி! எங்கள் வினை தீர்க்கும் இறைவா போற்றி! ஆரோக்கியம் அருளும் ஆதவனே போற்றி!",
+      "transliteration": "Sengadhire Potri! Sezhunchudare Potri! Engal Vinai Theerkum Iraiva Potri! Aarokkiyam Arulum Aadhavane Potri!"
+    }
+  ],
+  "ritual_notes": {
+    "leaf_type": "Erukku (Calotropis)",
+    "direction": "East",
+    "recommended_time": "Arunodaya (Sunrise)"
+  }
+}

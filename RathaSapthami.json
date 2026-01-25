@@ -4,6 +4,18 @@
   "deity": "Lord Surya",
   "prayers": [
     {
+      "title": "Aditya Hrudayam (Dhyanam)",
+      "purpose": "To gain strength and victory over obstacles",
+      "tamil_text": "நம: ஸவித்ரே ஜகதேக சக்ஷுஸே ஜகத்ப்ரஸூதி ஸ்திதி நாஶஹேதவே । த்ரயீமயாய த்ரிகுணாத்ம தாரிணே விரிஞ்சி நாராயண ஶங்கராத்மநே ॥",
+      "transliteration": "Nama Savitre Jagadeka Chakshuse Jagat-prasuti Sthiti Nasha-hetave | Trayimayaya Trigunatama Dharine Virinchi Narayana Shankaratmane ||"
+    },
+    {
+      "title": "Aditya Hrudayam (Phalashruti)",
+      "purpose": "The benefit of chanting Aditya Hrudayam",
+      "tamil_text": "ஏநமாபத்ஸு க்ருச்ச்ரேஷு காந்தாரேஷு பயேஷு ச । கீர்தயன் புருஷ: கஶ்சின்நாவஸீததி ராகவ ॥",
+      "transliteration": "Enam-apadsu Krichreshu Kantareshu Bhayeshu Cha | Kirtayan Purushah Kashchin-navasidati Raghava ||"
+    },
+    {
       "title": "Surya Gayatri Mantra",
       "purpose": "General invocation of the Sun God",
       "tamil_text": "ஓம் பாஸ்கராய வித்மஹே, மஹத்யுதிகராய தீமஹி, தன்னோ ஆதித்ய ப்ரசோதயாத்.",

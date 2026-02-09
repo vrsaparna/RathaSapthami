@@ -1,0 +1,85 @@
+{
+  "festival": "Ratha Saptami",
+  "language": "Tamil",
+  "deity": "Lord Surya",
+  "prayers": [
+    {
+      "title": "Aditya Hrudayam - Full 31 Verses",
+      "purpose": "The hymn taught by Sage Agastya to Lord Rama for victory and strength",
+      "verses": [
+        {"id": 1, "text": "ததோ யுத்தபரிஶ்ராந்தம் ஸமரே ஸிந்தயா ஸ்திதம் । ராவணம் சாக்ரதோ த்ருஷ்ட்வா யுத்தாய ஸமுபஸ்திதம் ॥"},
+        {"id": 2, "text": "தைவதைஶ்ச ஸமாகம்ய த்ரஷ்டுமப்யாகதோ ரணம் । உபாகம்யாப்ரவீத் ராமமகஸ்த்யோ பகவான் ரிஷி: ॥"},
+        {"id": 3, "text": "ராம ராம மஹாபாஹோ ஶ்ருணு குஹ்யம் ஸநாதநம் । யேந ஸர்வானரீன் வத்ஸ ஸமரே விஜயிஷ்யஸி ॥"},
+        {"id": 4, "text": "ஆதித்யஹ்ருதயம் புண்யம் ஸர்வஶத்ருவிநாஶனம் । ஜயாவஹம் ஜபேன்நித்யம் அக்ஷய்யம் பரமம் ஶிவம் ॥"},
+        {"id": 5, "text": "ஸர்வமங்களமாங்கள்யம் ஸர்வபாபப்ரணாஶநம் । ஸிந்தாஶோகப்ரஶமநம் ஆயுர்வர்தநமுத்தமம் ॥"},
+        {"id": 6, "text": "ரஶ்மிமந்தம் ஸமுத்யந்தம் தேவாஸுரநமஸ்க்ருதம் । பூஜயஸ்வ விவஸ்வந்தம் பாஸ்கரம் புவநேஶ்வரம் ॥"},
+        {"id": 7, "text": "ஸர்வதேவாத்மகோ ஹ்யேஷ தேஜஸ்வீ ரஶ்மிபாவந: । ஏஷ தேவாஸுரகணான் லோகான் பாதி கபஸ்திபி: ॥"},
+        {"id": 8, "text": "ஏஷ ப்ரஹ்மா ச விஷ்ணுஶ்ச ஶிவ: ஸ்கந்த: ப்ரஜாபதி: । மஹேந்த்ரோ தநத: காலோ யம: ஸோமோ ஹ்யபாம்பதி: ॥"},
+        {"id": 9, "text": "பிதரோ வஸவ: ஸாத்யா அஶ்விநௌ மருதோ மநு: । வாயுர்வஹ்நி: ப்ரஜாப்ராண: ரிதுகர்தா ப்ரபாகர: ॥"},
+        {"id": 10, "text": "ஆதித்ய: ஸவிதா ஸூர்ய: கக: பூஷா கபஸ்திமான் । ஸுவர்ணஸத்ருஶோ பாநு: ஹிரண்யரேதா திவாகர: ॥"},
+        {"id": 11, "text": "ஹரிதஶ்வ: ஸஹஸ்ரார்சி: ஸப்தஸப்திர்மரீசிமான் । திமிரோன்மதந: ஶம்பு: த்வஷ்டா மார்த்தாண்ட அம்ஶுமான் ॥"},
+        {"id": 12, "text": "ஹிரண்யகர்ப: ஶிஶிர: தபநோ பாஸ்கரோ ரவி: । அக்னிகர்போ திதே: புத்ர: ஶங்க: ஶிஶிரநாஶந: ॥"},
+        {"id": 13, "text": "வ்யோமநாதஸ்தமோபேதீ ரிக்யஜு:ஸாமபாரக: । கநவ்ருஷ்டிரபாம் மித்ரோ விந்த்யவீதீப்லவங்கம: ॥"},
+        {"id": 14, "text": "ஆதபீ மண்டலீ ம்ruத்யு: பிங்கள: ஸர்வதாபந: । கவிர்விஶ்வோ மஹாதேஜா: ரக்த: ஸர்வபவோத்பவ: ॥"},
+        {"id": 15, "text": "நக்ஷத்ரக்ரஹதாராணாம் அதிபோ விஶ்வபாவந: । தேஜஸாமபி தேஜஸ்வீ த்வாதஶாத்மன் நமோஸ்து தே ॥"},
+        {"id": 16, "text": "நம: பூர்வாய கிரயே பஶ்சிமாயாத்ரயே நம: । ஜ்யோதிர்கணாநாம் பதயே திநாதிபதயே நம: ॥"},
+        {"id": 17, "text": "ஜயாய ஜயபத்ராய ஹர்யஶ்வாய நமோ நம: । நமோ நம: ஸஹஸ்ரார்ஶோ ஆதித்யாய நமோ நம: ॥"},
+        {"id": 18, "text": "நம உக்ராய வீராய ஸாரங்காய நமோ நம: । நம: பத்மப்ரபோதாய மார்த்தாண்டாய நமோ நம: ॥"},
+        {"id": 19, "text": "ப்ரஹ்மேஶாநாச்யுதேஶாய ஸூர்யாயாதித்யவர்சஸே । பாஸ்வதே ஸர்வபக்ஷாய ரௌத்ராய வபுஷே நம: ॥"},
+        {"id": 20, "text": "தமோக்நாய ஹிமக்நாய ஶத்ருக்நாயாமிதாத்மநே । க்ருதக்னக்நாய தேவாய ஜ்யோதிஷாம் பதயே நம: ॥"},
+        {"id": 21, "text": "தப்தசாமீகராபாய ஹரயே விஶ்வகர்மணே । நமஸ்தமோபிநிக்னாய ருசயே லோகஸாக்ஷிணே ॥"},
+        {"id": 22, "text": "நாஶயத்யேஷ வை பூதம் ததேவ ஸ்ருஜதி ப்ரபு: । பாயத்யேஷ தபத்யேஷ வர்ஷத்யேஷ கபஸ்திபி: ॥"},
+        {"id": 23, "text": "ஏஷ ஸுப்தேஷு ஜாகர்தி பூதேஷு பரிநிஷ்டித: । ஏஷ ஏவாக்நிஹோத்ரம் ச பலம் சைவாக்நிஹோத்ரிணாம் ॥"},
+        {"id": 24, "text": "வேதாஶ்ச க்ரதவஶ்சைவ க்ரதூநாம் பலமேவ ச । யானி க்ருத்யானி லோகேஷு ஸர்வ ஏஷ ரவி: ப்ரபு: ॥"},
+        {"id": 25, "text": "ஏநமாபத்ஸு க்ருச்ச்ரேஷு காந்தாரேஷு பயேஷு ச । கீர்தயன் புருஷ: கஶ்சின்நாவஸீததி ராகவ ॥"},
+        {"id": 26, "text": "பூஜயஸ்வைநமேகாக்ரோ தேவதேவம் ஜகத்பதிம் । ஏதத் த்ரிகுணிதம் ஜப்த்வா யுத்தேஷு விஜயிஷ்யஸி ॥"},
+        {"id": 27, "text": "அஸ்மின் க்ஷணே மஹாபாஹோ ராவணம் த்வம் வதிஷ்யஸி । ஏவமுக்த்வா ததாகஸ்த்யோ ஜகாம ச யதாகதம் ॥"},
+        {"id": 28, "text": "ஏதச்ச்ருத்வா மஹாதேஜா நஷ்டஶோகோபவத் ததா । தாரயாமார ஸுப்ரீதோ ராகவ: ப்ரயதாத்மவான் ॥"},
+        {"id": 29, "text": "ஆதித்யம் த்ருஷ்ட்வா ஜப்த்வா து பரம் ஹர்ஷமவாப்தவான் । த்ரிராசம்ய ஶுசிர்பூத்வா தநுராதாய வீர்யவான் ॥"},
+        {"id": 30, "text": "ராவணம் ப்ரேக்ஷ்ய ஹ்ருஷ்டாத்மா யுத்தாய ஸமுபாகமத் । ஸர்வயத்நேந மஹதா வதே தஸ்ய த்ருதோபவத் ॥"},
+        {"id": 31, "text": "அத ரவிரவதந்நிரீக்ஷ்ய ராமம் முதிதமனா: பரமம் ப்ரஹ்ருஷ்யமாண: । நிஶிசரபதிஸங்க்ஷயம் விதித்வா ஸுரகணமத்யகதோ வசஸ்த்வரேதி ॥"}
+      ]
+    },
+    {
+      "title": "Surya Gayatri Mantra",
+      "purpose": "General invocation of the Sun God",
+      "tamil_text": "ஓம் பாஸ்கராய வித்மஹே, மஹத்யுதிகராய தீமஹி, தன்னோ ஆதித்ய ப்ரசோதயாத்.",
+      "transliteration": "Om Bhaskaraya Vidmahe, Mahadyutikaraya Dhimahi, Tanno Aditya Prachodayat."
+    },
+    {
+      "title": "Sins Cleansing Prayer",
+      "purpose": "Prayer to remove seven types of sins during the bath",
+      "tamil_text": "ஏதஜ்ஜந்ம க்ருதம் பாபம் யச்ச ஜந்மாந்தரார்ஜிதம் । மநோ வாக்காயஜம் யச்ச ஜ்ஞாதாஜ்ஞாதே ச யே புநஃ ॥ இதி ஸப்தவிதம் பாபம் ஸ்நாநான்மே ஸப்த ஸப்திகே । ஸப்தவ்யாதி ஸமாயுக்தம் ஹர மாகரி ஸப்தமீ ॥",
+      "transliteration": "Etaj-janma kritam papam yaccha janmantararjitam | Mano-vak-kayajam yaccha jnata-jnate cha ye punah || Iti saptavidham papam snanan-me sapta saptike | Sapta-vyadhi samayuktam hara makari saptami ||"
+    },
+    {
+      "title": "Saptami Snana Shlokam",
+      "purpose": "Recited during the ritual bath with Erukku leaves",
+      "tamil_text": "யத்பன்ம ஜன்ம சரிதம் பாபம், ஸப்த ஜன்மஸு ராகதாம், தந்மே ரோகம் ச சோகம் ச, மாகரீ ஹந்து ஸப்தமீ.",
+      "transliteration": "Yatpanma Janma Charitam Papam, Sapta Janmasu Ragatam, Tanme Rogam Cha Shokam Cha, Magari Hantu Saptami."
+    },
+    {
+      "title": "Additional Saptami Shlokas",
+      "purpose": "Prayer for removing sins and offering Arghyam",
+      "tamil_text": "ஸப்தஸப்திப்ரியே தேவி ஸப்தலோகைகதீபிகே । ஸப்தஜந்மார்ஜிதம் பாபம் ஹர ஸப்தமி ஸத்வரம் ॥ யத்மயாத்ர க்ருதம் பாபம் பூர்வம் ஸப்தஸு ஜந்மஸு । தத்ஸர்வம் ஶோகமோஹௌ ச மாகரீ ஹந்து ஸப்தமீ ॥ நமாமி ஸப்தமீம் தேவீம் ஸர்வபாபப்ரணாஶினீம் । ஸப்தமீ ஸஹிதோ தேவ க்ருஹாணார்க்கயம் திவாகர ॥",
+      "transliteration": "Sapta-sapti-priye Devi Sapta-lokaika-dipike | Sapta-janmarjitam papam hara saptami satvaram || Yan-maya-tra kritam papam purvam saptasu janmasu | Tat-sarvam shoka-mohau cha makari hantu saptami || Namami saptamim devim sarva-papa-pranashinim | Saptami sahito deva grihanarkyam divakara ||"
+    },
+    {
+      "title": "Surya Ashtakam (Key Names)",
+      "purpose": "To remove poverty and gain health",
+      "tamil_text": "ஆதித்ய ப்ரதமம் நாம த்விதீயம் து திவாகர: த்ருதீயம் பாஸ்கரம் ப்ரோக்தம் சதுர்தம் து ப்ரபாகர: பஞ்சமம் து ஸஹஸ்ராம்சு: ஷஷ்டம் த்ரைலோக்ய லோசனம் ஸப்தமம் ஹரிதச்வஞ்ச அஷ்டமம் து விபாவஸு:",
+      "transliteration": "Aditya Prathamam Nama, Dwitiyam Tu Divakara, Tritiyam Bhaskaram Proktam, Chaturtham Tu Prabhakara..."
+    },
+    {
+      "title": "Tamil Surya Arpanam",
+      "purpose": "Direct prayer in Tamil while offering water",
+      "tamil_text": "செங்கதிரே போற்றி! செழுஞ்சுடரே போற்றி! எங்கள் வினை தீர்க்கும் இறைவா போற்றி! ஆரோக்கியம் அருளும் ஆதவனே போற்றி!",
+      "transliteration": "Sengadhire Potri! Sezhunchudare Potri! Engal Vinai Theerkum Iraiva Potri! Aarokkiyam Arulum Aadhavane Potri!"
+    }
+  ],
+  "ritual_notes": {
+    "leaf_type": "Erukku (Calotropis)",
+    "direction": "East",
+    "recommended_time": "Arunodaya (Sunrise)"
+  }
+}
